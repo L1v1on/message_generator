@@ -1,4 +1,7 @@
-const beginning = ["They ", "You ", "People "];
-const middle = ["are ", "should be", "are not "];
-const end = ["smart!", "dumb!", "fast!"];
-console.log(beginning[0] + middle[0] + end[0]);
+const sentence = {
+    beginning: ["They ", "You ", "People "],
+    middle: ["are ", "should be ", "are not "],
+    end: ["smart!", "dumb!", "fast!"],
+};
+
+console.log("test");
